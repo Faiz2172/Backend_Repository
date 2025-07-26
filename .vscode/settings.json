@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "github.gitAuthentication": true,
+    "git.enabled": true
+}
